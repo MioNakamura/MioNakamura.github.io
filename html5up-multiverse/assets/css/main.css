@@ -6,6 +6,9 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
+.intro{
+ font-size: 1.5rem;
+}
 
 @-moz-keyframes spinner {
 	0% {
